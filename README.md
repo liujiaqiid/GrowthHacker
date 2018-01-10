@@ -3,11 +3,15 @@
 #### 分享主题
 1. 分享主题不能脱离产品技术
 2. 选题方式    
- - 优先个人指定选题
- - 个人选题需要团队投票确认
- - 团队指定选题
+   - 优先个人指定选题
+   - 个人选题需要团队投票确认
+   - 团队指定选题
 3. 鼓励邀请外部人员分享
 4. 鼓励分享和实际应用相结合的主题
+5. 选题类型：    
+    - 语言基础及主题    
+    - 编程思想及编程技巧    
+    - 实际问题及解决方案    
 
 #### 分享要求
 1. 使用脑图梳理知识点
@@ -25,5 +29,5 @@
   - *20180104 shared by [SeanLiuID](https://github.com/SeanLiuID)*
 5. [C语言简介](https://www.processon.com/view/link/5a4e06aae4b0ee0fb8cec421)
   - *20180108 shared by [shijianye1989](https://github.com/shijianye1989)*
-6. [C++语言简介](https://www.processon.com/view/link/5a4e06aae4b0ee0fb8cec421)
-  - *201801.. shared by [shijianye1989](https://github.com/shijianye1989)*  
+6. [C++语言简介](https://www.processon.com/view/link/5a55bedfe4b010a6e70e8c8e)
+  - *20180111 shared by [shijianye1989](https://github.com/shijianye1989)*  
